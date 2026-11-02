@@ -1,4 +1,4 @@
-# Consumer-De-influencing-AI-insight-engine
+# Consumer De-influencing AI-insight engine
 **Live Website:** [Explore the Consumer De-Influencing Insight Engine](https://benevolent-fudge-ce0c3a.netlify.app/)
 # About the Project: 
 The Consumer De-Influencing Insight Engine is a consumer behaviour research prototype designed to identify and interpret consumer conversations in which individuals discourage, question, or resist a purchase.
